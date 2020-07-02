@@ -1,0 +1,56 @@
+.widget-swiper {
+    position: relative;
+}
+.widget-swiper-inner {
+    position: relative;
+    height: 222px;
+    overflow: hidden;
+}
+.swiper-prev, .swiper-next {
+    position: absolute;
+    display: flex;
+    top: 0;
+    bottom: 0;
+    opacity: 0;
+    transition: left .3s, right .3s, opacity .3s;
+}
+.swiper-prev {
+    left: -55px;
+}
+.swiper-next {
+    right: -55px;
+}
+.show {
+    .swiper-prev {
+        opacity: 1;
+        left: -45px;
+    }
+    .swiper-next {
+        opacity: 1;
+        right: -45px;
+    }
+}
+.btn-prev, .btn-next {
+    width: 30px;
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.btn-prev[disabled], .btn-next[disabled] {
+    cursor: not-allowed;
+    opacity: .6;
+}
+.btn-prev:not([disabled]):hover, .btn-next:not([disabled]):hover {
+    opacity: .6;
+}
+
+.widget-swiper-item {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    background-color: #f9f1d5;
+    &.animate {
+        transition: left .3s ease;
+    }
+}

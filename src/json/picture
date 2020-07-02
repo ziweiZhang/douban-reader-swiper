@@ -1,0 +1,69 @@
+{
+    "data": {
+        "title": "画册",
+        "link": "/picture/more",
+        "books": [{
+            "cover": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3619467586,3134704474&fm=26&gp=0.jpg",
+            "id": "1001",
+            "title": "书名",
+            "price": "1.6",
+            "author": ["作者1_1"],
+            "link": "/picture/1001/details",
+            "author_link": "/author/20000001"
+        },
+        {
+            "cover": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3749229828,3926138215&fm=26&gp=0.jpg",
+            "id": "1002",
+            "title": "书名2",
+            "price": "2.6",
+            "author": ["作者2_1"],
+            "link": "/picture/1001/details",
+            "author_link": "/author/20000001"
+        },
+        {
+            "cover": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3619467586,3134704474&fm=26&gp=0.jpg",
+            "id": "1003",
+            "title": "书名3_asjkdhjkasd asjkhasdbkjasdbkjabsd asd",
+            "price": "1.6",
+            "author": ["作者3_1"],
+            "link": "/picture/1001/details",
+            "author_link": "/author/20000001"
+        },
+        {
+            "cover": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3749229828,3926138215&fm=26&gp=0.jpg",
+            "id": "1004",
+            "title": "书名4",
+            "price": "2.6",
+            "author": ["作者4_1", "作者4_2"],
+            "link": "/picture/1001/details",
+            "author_link": "/author/20000001"
+        },
+        {
+            "cover": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3619467586,3134704474&fm=26&gp=0.jpg",
+            "id": "1005",
+            "title": "书名5",
+            "price": "1.6",
+            "author": ["作者5_1"],
+            "link": "/picture/1001/details",
+            "author_link": "/author/20000001"
+        },
+        {
+            "cover": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3749229828,3926138215&fm=26&gp=0.jpg",
+            "id": "1006",
+            "title": "书名6",
+            "price": "2.6",
+            "author": ["作者6_1"],
+            "link": "/picture/1001/details",
+            "author_link": "/author/20000001"
+        },
+        {
+            "cover": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3749229828,3926138215&fm=26&gp=0.jpg",
+            "id": "1007",
+            "title": "书名7",
+            "price": "2.6",
+            "author": ["作者7_1"],
+            "link": "/picture/1001/details",
+            "author_link": "/author/20000001"
+        }]
+    }
+}
