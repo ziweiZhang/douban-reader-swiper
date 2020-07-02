@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.fbe8bdaef755c4228e6547d10f1d449d.js"
+  "/douban-reader-swiper/build/precache-manifest.990f5313586c304d6c4bb8aaaaa26dd7.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -6,6 +6,6 @@ module.exports = function override(config, env) {
           { from: __dirname + '/src/json', to: 'json' },
         ],
       }));
-    
+    config.output.publicPath = process.env.NODE_ENV === 'production' ? '/douban-reader-swiper/build/' : '/';
     return config;
 }
