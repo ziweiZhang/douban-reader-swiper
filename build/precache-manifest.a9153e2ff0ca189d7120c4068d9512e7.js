@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9499bc7d5a4fabb67405a53bc0ec8049",
+    "revision": "8f60d013cec1494395723ed881be5770",
     "url": "/douban-reader-swiper/build/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/douban-reader-swiper/build/json/picture"
   },
   {
-    "revision": "dd122eaaa8ba98282679",
+    "revision": "21649d1841a3f2216b76",
     "url": "/douban-reader-swiper/build/static/css/main.8334e107.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/douban-reader-swiper/build/static/js/2.439e99d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd122eaaa8ba98282679",
-    "url": "/douban-reader-swiper/build/static/js/main.3c75b4f8.chunk.js"
+    "revision": "21649d1841a3f2216b76",
+    "url": "/douban-reader-swiper/build/static/js/main.c5ddb1b2.chunk.js"
   },
   {
     "revision": "3b4c0222845921282912",
